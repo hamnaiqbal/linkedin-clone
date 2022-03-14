@@ -1,0 +1,12 @@
+.app_body{
+    display: flex;
+}
+.App{
+   
+    align-items: center;
+   
+    
+    flex-direction: column;
+    background-color: #f3f2ef;
+   
+}

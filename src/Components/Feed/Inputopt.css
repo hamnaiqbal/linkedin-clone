@@ -1,0 +1,16 @@
+.input_options{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    cursor: pointer;
+    padding: 10px;
+   
+}
+.input_options:hover{
+   
+    background-color: whitesmoke;
+
+}
+.input_options>h4{
+    margin-left: 5px;
+}
